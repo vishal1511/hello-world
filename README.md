@@ -1,2 +1,2 @@
 # hello-world
-Checking 
+Checking for the feature file
